@@ -1,0 +1,82 @@
+Introducing C++
+Screen Resolution
+Setup and Installation
+Hello World C++
+Outputting Text
+Variables
+Strings - Working with Text
+User Input
+Binary Numbers and Computer Memory
+Integer Types
+Floating Point Types
+Other Types: Char and Bool
+If
+If-Else
+If-Else If-Else
+Comparing Floats
+C++ Conditions
+While Loops
+Do-While Loops
+"For" Loops
+Break and Continue
+Arrays - Lists of Data
+Multidimensional Arrays
+Sizeof and Arrays
+Sizeof Multidimensional Arrays
+Switch
+Functions
+Return Values
+Function Parameters
+Headers and Prototypes
+Classes
+Data Members
+C++ Constructors and Destructors
+C++ Getters and Setters
+C++ String Streams
+Overloading Constructors
+The "this" Keyword
+Constructor Initialization Lists
+Pointers
+Arithmetic
+Pointers and Arrays
+Pointer Arithmetic
+Char Arrays
+Reversing a String
+References
+The "const" Keyword
+Copy Constructors
+The New Operator
+Returning Objects from Functions
+Allocating Memory
+Arrays and Functions
+Namespaces
+Inheritance
+Encapsulation
+Constructor Inheritance
+Twos Complement
+Static Keyword
+Particle Fire Explosion
+Using C++ Libraries
+Acquiring Simple Direct Media Layer
+A Basic SDL Program
+Creating an SDL Window
+Textures, Renderers and Buffers
+Setting Pixel Colors
+Creating the Screen Class
+Bit Shifting and Colors
+Adding a Set Pixel Method
+Animating Colors
+Creating Particles
+Animating Particles
+Creating an Explosion
+Ensuring Constant Speed
+Bitwise "And"
+Implementing Box Blur
+Tweaking Particle Motion
+Languages Overview
+What Next
+Object Oriented Design Considerations
+Postfix and Prefix
+Polymorphism
+Creating Static Libraries
+Congratulations, and an Advanced C++ Course
